@@ -1,0 +1,19 @@
+[user]
+    name = Tshepo Elifa Serumula
+    email = tshepoelifa238@mail.com
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --all
+    a = add
+    aa = add -all
+    p = pull
+
+[config]
+    name = Tshepo
+
+[init]
+    defaultBranch = main

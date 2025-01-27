@@ -1,0 +1,1 @@
+This file is part of a Git workshop repository. It is intended to demonstrate how to create and manage files within a Git repository. The file currently contains a brief summary of its purpose and usage.
